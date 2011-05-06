@@ -1,0 +1,10 @@
+       
+                    
+class Beverage :
+	public Product
+{
+public:
+	Beverage(void);
+	virtual ~Beverage(void);
+};
+
